@@ -144,7 +144,7 @@ header .content h4{
     color: #ccc;
     font-size: 1rem;
     font-weight: 600;
-    
+    text-align: left;
     
 }
 
@@ -238,6 +238,7 @@ section .header{
 .features .card p{
     color: #ccc;
     margin-bottom: 1rem;
+    text-align: center;
 }
 
 .features .card a{
